@@ -12,7 +12,7 @@ A structured, beginner-to-advanced System Design learning path focused on **LLD,
 
 | # | Lesson | Status |
 |---|---|---|
-| 1 | [What is System Design?](lessons/01-what-is-system-design.md) | ⬜ |
+| 1 | [What is System Design?](lessons/01-what-is-system-design.md) | ✅ |
 | 2 | [HLD vs LLD](lessons/02-hld-vs-lld.md) | ⬜ |
 | 3 | [Functional vs Non-Functional Requirements](lessons/03-functional-vs-non-functional-requirements.md) | ⬜ |
 | 4 | [Scalability](lessons/04-scalability.md) | ⬜ |
