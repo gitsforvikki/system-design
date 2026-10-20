@@ -35,7 +35,7 @@ A structured, beginner-to-advanced System Design learning path focused on **LLD,
 | 11 | [DNS & HTTP](lessons/11-dns-and-http.md) | ✅ |
 | 12 | [Load Balancers](lessons/12-load-balancers.md) | ✅ |
 | 13 | [Caching & Redis](lessons/13-caching-and-redis.md) | ✅ |
-| 14 | [Databases](lessons/14-databases.md) | ⬜ |
+| 14 | [Databases](lessons/14-databases.md) | ✅ |
 | 15 | [Replication & Sharding](lessons/15-replication-and-sharding.md) | ⬜ |
 | 16 | [Message Queues](lessons/16-message-queues.md) | ⬜ |
 | 17 | [Rate Limiting](lessons/17-rate-limiting.md) | ⬜ |
