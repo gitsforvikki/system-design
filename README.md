@@ -14,19 +14,19 @@ A structured, beginner-to-advanced System Design learning path focused on **LLD,
 |---|---|---|
 | 1 | [What is System Design?](lessons/01-what-is-system-design.md) | ✅ |
 | 2 | [HLD vs LLD](lessons/02-hld-vs-lld.md) | ✅ |
-| 3 | [Functional vs Non-Functional Requirements](lessons/03-functional-vs-non-functional-requirements.md) | ⬜ |
-| 4 | [Scalability](lessons/04-scalability.md) | ⬜ |
-| 5 | [Availability, Reliability & Latency](lessons/05-availability-reliability-latency.md) | ⬜ |
+| 3 | [Functional vs Non-Functional Requirements](lessons/03-functional-vs-non-functional-requirements.md) | ✅ |
+| 4 | [Scalability](lessons/04-scalability.md) | ✅ |
+| 5 | [Availability, Reliability & Latency](lessons/05-availability-reliability-latency.md) | ✅ |
 
 ### Section 2 — Low-Level Design (LLD)
 
 | # | Lesson | Status |
 |---|---|---|
-| 6 | [OOP for LLD](lessons/06-oop-for-lld.md) | ⬜ |
-| 7 | [SOLID Principles](lessons/07-solid-principles.md) | ⬜ |
-| 8 | [Composition & Dependency Injection](lessons/08-composition-dependency-injection.md) | ⬜ |
-| 9 | [Design Patterns](lessons/09-design-patterns.md) | ⬜ |
-| 10 | [LLD Case Study](lessons/10-lld-case-study.md) | ⬜ |
+| 6 | [OOP for LLD](lessons/06-oop-for-lld.md) | ✅ |
+| 7 | [SOLID Principles](lessons/07-solid-principles.md) | ✅ |
+| 8 | [Composition & Dependency Injection](lessons/08-composition-dependency-injection.md) | ✅ |
+| 9 | [Design Patterns](lessons/09-design-patterns.md) | ✅ |
+| 10 | [LLD Case Study](lessons/10-lld-case-study.md) | ✅ |
 
 ### Section 3 — HLD Building Blocks
 
