@@ -46,7 +46,7 @@ A structured, beginner-to-advanced System Design learning path focused on **LLD,
 |---|---|---|
 | 18 | [CAP Theorem](lessons/18-cap-theorem.md) | ✅ |
 | 19 | [Consistency](lessons/19-consistency.md) | ✅ |
-| 20 | [Idempotency](lessons/20-idempotency.md) | ⬜ |
+| 20 | [Idempotency](lessons/20-idempotency.md) | ✅ |
 | 21 | [Fault Tolerance](lessons/21-fault-tolerance.md) | ⬜ |
 | 22 | [Distributed Systems Basics](lessons/22-distributed-systems-basics.md) | ⬜ |
 
