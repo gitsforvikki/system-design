@@ -58,7 +58,7 @@ A structured, beginner-to-advanced System Design learning path focused on **LLD,
 | 24 | [Chat System](lessons/24-chat-system.md) | ✅ |
 | 25 | [Notification System](lessons/25-notification-system.md) | ✅ |
 | 26 | [E-commerce System](lessons/26-ecommerce-system.md) | ✅ |
-| 27 | [CareerLoop](lessons/27-careerloop.md) | ⬜ |
+| 27 | [CareerLoop](lessons/27-careerloop.md) | ✅ |
 | 28 | [CodeBuddy](lessons/28-codebuddy.md) | ⬜ |
 | 29 | [Interview-Style System Design](lessons/29-interview-style-system-design.md) | ⬜ |
 
