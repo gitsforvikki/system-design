@@ -44,7 +44,7 @@ A structured, beginner-to-advanced System Design learning path focused on **LLD,
 
 | # | Lesson | Status |
 |---|---|---|
-| 18 | [CAP Theorem](lessons/18-cap-theorem.md) | ⬜ |
+| 18 | [CAP Theorem](lessons/18-cap-theorem.md) | ✅ |
 | 19 | [Consistency](lessons/19-consistency.md) | ⬜ |
 | 20 | [Idempotency](lessons/20-idempotency.md) | ⬜ |
 | 21 | [Fault Tolerance](lessons/21-fault-tolerance.md) | ⬜ |
